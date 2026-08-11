@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "transport": {
+    "type": "http",
+    "url": "https://learn.microsoft.com/api/mcp"
+  },
+  "capabilities": {
+    "tools": true
+  }
+}
