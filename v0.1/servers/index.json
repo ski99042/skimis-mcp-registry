@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "name": "microsoft-learn",
+      "title": "Microsoft Learn Docs MCP",
+      "description": "MCP server for Microsoft Learn documentation.",
+      "url": "https://ski99042.github.io/skimis-mcp-registry/v0.1/servers/microsoft-learn"
+    }
+  ]
+}
