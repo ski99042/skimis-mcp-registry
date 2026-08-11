@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.ski99042/microsoft-learn",
+  "name": "ski-microsoft-learn",
   "title": "Microsoft Learn Docs MCP G",
   "description": "MCP server for Microsoft Learn documentation.",
   "version": "1.0.0",
