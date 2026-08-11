@@ -1,10 +1,12 @@
 {
+  "name": "io.github.ski99042/github",
+  "title": "GitHub MCP Server",
+  "description": "MCP server for GitHub APIs and repository operations.",
   "version": "1.0.0",
-  "transport": {
-    "type": "http",
-    "url": "https://api.githubcopilot.com/mcp/"
-  },
-  "capabilities": {
-    "tools": true
-  }
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    }
+  ]
 }
