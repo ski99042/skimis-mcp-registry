@@ -1,0 +1,7 @@
+{
+  "name": "github",
+  "title": "GitHub MCP Server",
+  "description": "MCP server for GitHub APIs and repository operations.",
+  "homepage": "https://github.com",
+  "versions_url": "https://ski99042.github.io/skimis-mcp-registry/v0.1/servers/github/versions/latest"
+}
