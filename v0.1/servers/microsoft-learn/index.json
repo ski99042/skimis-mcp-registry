@@ -1,5 +1,5 @@
 {
-  "name": "microsoft-learn",
+  "name": "io.github.ski99042/microsoft-learn",
   "title": "Microsoft Learn Docs MCP",
   "description": "MCP server exposing Microsoft Learn docs tools.",
   "homepage": "https://learn.microsoft.com",
